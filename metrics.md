@@ -1,2 +1,2 @@
 tool,mean,std
-numpy,6727,13.460
+numpy,251.6,13.74
