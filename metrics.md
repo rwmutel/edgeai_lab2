@@ -5,3 +5,4 @@ opencv,3122,2.15
 openblas,253.8,9.80
 multithreaded,9241.5,829.65 
 rknn,1535.7,0.37
+rknn-perf,49.2,0.30
